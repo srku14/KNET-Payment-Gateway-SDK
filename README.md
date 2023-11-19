@@ -1,5 +1,5 @@
 
-# Knet Payment PHP SDK
+# KNET Payment PHP SDK
 
 KNET has introduced a new flow in the KNET payment gateway integration for the certification of MIDs that were issued or onboarded after September 2023. However, there are no changes in the integration flow for existing MIDs that were certified and issued by KNET before September 2023.
 
